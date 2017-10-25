@@ -1,3 +1,7 @@
+body {
+    background-color: "#19c49a";
+}
+
 .reveal section h1,
 .reveal section h2,
 .reveal section h3,
@@ -14,4 +18,9 @@
 
 .reveal section pre {
     font-size: 1rem;
+}
+
+.reveal section code {
+    color: "#de5fbe";
+    font-style: italic;
 }

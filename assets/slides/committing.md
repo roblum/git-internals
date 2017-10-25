@@ -1,4 +1,5 @@
 ### Committing files from Staging
+
 `write-tree` creates a tree object with the current index file.
 
 ```

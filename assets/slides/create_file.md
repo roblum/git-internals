@@ -19,3 +19,8 @@ d670460b4b4aece5915caf5c68d12f560a9fe3e4
 > cat .git/objects/d6/70460b4b4aece5915caf5c68d12f560a9fe3e4
 xK??OR04f(I-.QH??+I?+?K?	%
 ```
+
+@[1]
+@[2-3]
+@[5-6]
+@[8-14]

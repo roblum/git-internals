@@ -2,15 +2,12 @@
 
 ---
 
-### What are "plumbing" and "porcelain" commands?
+### Plumbing vs Porcelain
 
-##### Plumbing
-* Low level commands
-* Chained together to form porcelain commands
-
-##### Porcelain
-* User friendly
-* `git add`
+| Plumbing | Porcelain |
+|----------|-----------|
+| Low level commands | User friendly |
+| Chained together to form porcelain commands | Ex: `git add` |
 
 ---
 
@@ -36,16 +33,6 @@
 ├── config
 ├── description
 ├── hooks
-│   ├── applypatch-msg.sample
-│   ├── commit-msg.sample
-│   ├── post-update.sample
-│   ├── pre-applypatch.sample
-│   ├── pre-commit.sample
-│   ├── pre-push.sample
-│   ├── pre-rebase.sample
-│   ├── pre-receive.sample
-│   ├── prepare-commit-msg.sample
-│   └── update.sample
 ├── info
 │   └── exclude
 ├── objects

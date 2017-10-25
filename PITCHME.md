@@ -1,4 +1,4 @@
----?include=assets/slides/intro.md
+---?include=assets/slides/title.md
 ---?include=assets/slides/plumbing.md
 ---?include=assets/slides/create_repo.md
 ---?include=assets/slides/git_dir.md

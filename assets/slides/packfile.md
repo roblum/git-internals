@@ -15,3 +15,8 @@ d670460b4b4aece5915caf5c68d12f560a9fe3e4 blob   13 22 132
 non delta: 3 objects
 .git/objects/pack/pack-d4eea996fc1b9bb9f8d26502e8203225497fb8bb.pack: ok
 ```
+
+@[1]
+@[2]
+@[3]
+@[5-10]

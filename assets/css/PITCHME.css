@@ -1,5 +1,9 @@
 body {
-    background-color: "#19c49a";
+    background-color: #19c49a;
+}
+
+.reveal {
+    color: #fff;
 }
 
 .reveal section h1,
@@ -9,6 +13,7 @@ body {
 .reveal section h5,
 .reveal section h6 {
     text-transform: none;
+    color: #fff;
 }
 
 .reveal section li,
@@ -18,9 +23,4 @@ body {
 
 .reveal section pre {
     font-size: 1rem;
-}
-
-.reveal section code {
-    color: "#de5fbe";
-    font-style: italic;
 }

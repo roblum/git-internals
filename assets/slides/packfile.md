@@ -1,7 +1,8 @@
 ### Create a Pack File
+
 * `packfile` is a binary file containing loose objects.
-* `git gc` - garbage collect. runs every push. this will combine all loose objects into one file and store deltas from one version to next. can reduce size.
-* `verify-pack` can show what objects were packed in garbage collection.
+* `git gc` aka garbage collection. This command combine all loose objects into one file and tracks deltas between versions, reducing object sizes on disk. Garbage collection typically runs automatically when pushing to a remote repository.
+* `verify-pack` can show what objects were packed during garbage collection.
 
 ```sh
 $ git count-objects -H

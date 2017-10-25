@@ -1,4 +1,5 @@
 ### Attach the commit to a branch
+
 `update-ref` updates a reference to the object provided.
 
 ```sh

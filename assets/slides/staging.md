@@ -1,4 +1,5 @@
 ### Adding files to Staging
+
 `update-index` adds the file contents from the working tree to the index file.
 
 ```sh

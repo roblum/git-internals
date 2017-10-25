@@ -1,7 +1,7 @@
 ### Creating a file
 
 * `hash-object` stores the object with a header, and outputs a checksum hash (SHA-1).
-* `cat-file` provides the content or type of an object. (-t type, -p contents, -s size)
+* `cat-file` outputs the content, type of an object, or size (-t type, -p contents, -s size).
 
 ```sh
 $ echo 'test content' > test.txt

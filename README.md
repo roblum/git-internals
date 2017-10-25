@@ -1,1 +1,1 @@
-# Git Plumbing
+# Git Internals

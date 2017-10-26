@@ -24,3 +24,11 @@ body {
 .reveal section pre {
     font-size: 1rem;
 }
+
+.reveal section a {
+    color: #FFC107;
+}
+
+.reveal section a:hover {
+    color: #FF9800;
+}

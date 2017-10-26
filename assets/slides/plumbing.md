@@ -1,9 +1,3 @@
 ### Plumbing vs Porcelain
 
-Plumbing
-* Low level commands
-* Chained together to form porcelain commands
-
-Porcelain
-* User friendly
-* `git add`
+`plumbing` commands are low level and give access to git's inner workings. They are typically chained together to form `porcelain` commands (i.e. `git add`).

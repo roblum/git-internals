@@ -8,3 +8,4 @@
 ---?include=assets/slides/committing.md
 ---?include=assets/slides/ref.md
 ---?include=assets/slides/packfile.md
+---?include=assets/slides/comparison.md
